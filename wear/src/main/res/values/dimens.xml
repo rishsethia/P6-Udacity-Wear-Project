@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sq_time_size">36dp</dimen>
+    <dimen name="sq_date_size">14dp</dimen>
+    <dimen name="sq_weather_size">25dp</dimen>
+    <dimen name="sq_time_x_offset">45dp</dimen>
+    <dimen name="sq_date_x_offset">35dp</dimen>
+    <dimen name="sq_weather_x_offset">30dp</dimen>
+    <dimen name="sq_time_y_offset">60dp</dimen>
+    <dimen name="sq_date_y_offset">85dp</dimen>
+    <dimen name="sq_y_offset_dvd">100dp</dimen>
+    <dimen name="sq_y_offset_weather">140dp</dimen>
+
+    <dimen name="rnd_time_size">44dp</dimen>
+    <dimen name="rnd_date_size">16dp</dimen>
+    <dimen name="rnd_weather_size">32dp</dimen>
+    <dimen name="rnd_time_x_offset">55dp</dimen>
+    <dimen name="rnd_date_x_offset">40dp</dimen>
+    <dimen name="rnd_weather_x_offset">30dp</dimen>
+    <dimen name="rnd_time_y_offset">75dp</dimen>
+    <dimen name="rnd_date_y_offset">100dp</dimen>
+    <dimen name="rnd_y_offset_dvd">120dp</dimen>
+    <dimen name="rnd_y_offset_weather">160dp</dimen>
+</resources>
